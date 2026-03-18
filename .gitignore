@@ -1,0 +1,6 @@
+data
+main
+.DS_Store
+.vscode
+expenseowl.exe
+*.exe
